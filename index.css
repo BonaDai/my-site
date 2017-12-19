@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    font-size: 48px;
+    color: red;
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
+}
+
+.menu {
+    font-size: 48px;
+    width: 400px;
+    height: 400px;
+    background: #ccc;
+    text-align: center;
+    color: #444;
+    overflow: hidden;
+    text-align: center;
+}
+
+.menu:hover {
+    background: #a00;
+    color: #fff;
+}
+
+.menu:active {
+    background: #5c0000;
+    color: #ffe34b;
+}
+
+.menuText {
+    position: relative;
+/*
+    margin-top: 50%;
+    transform: translate(0,-50%);
+*/
+    width: 200px;
+    height: 200px;
+    background: red;
+    color: inherit;
+/*    display: inline-block;*/
+
+}
+
+.menuText:hover{
+    animation: moveUp100 1s 1;
+}
+
+@keyframes moveUp100 {
+    from {
+        top: 16px;
+    }
+    to {
+        top: -100px;
+    }
+}
+
+.menuTextUp {
+    height: 100px;
+    position: absolute;
+    top: 16px;
+    color: black;
+}
+
+.menuTextDown {
+    height: 100px;
+    position: absolute;
+    top: 16px;
+    color: red;
+}
+
+.neibu {
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+
+.xx {
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+/*    line-height: 80px;*/
+    height: 100px;
+    width: 100px;
+/*
+    font-size: 40px;
+    overflow: hidden;
+*/
+    background: yellow;
+    display: inline-block;
+}
+
+.col-md-1 {
+    z
+}

@@ -1,0 +1,118 @@
+
+.glyphicon-asterisk {
+    color: green;
+    font-size: 56px;
+}
+
+.dingBuLan {
+    background: #f95a16;
+}
+
+.col-md-12 {
+    background: #f95a16;
+    height: 26px;
+}
+
+.col-md-9 {
+
+}
+
+.col-md-9 {
+    color: white;
+    font-size: 11px;
+    text-align:right;
+    transform: translate(0,30%)
+}
+
+
+
+.col-md-12a {
+    background:green;
+    height: 72px;
+}
+
+.fenLeiHang {
+    background: green;
+}
+
+
+
+.Dian {
+    color:red;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: -20%;
+    transform: translate(0,30%);
+}
+
+.home {
+    color: #f95a16;
+    font-size: 11px;
+    text-align: left;
+    transform: translate(0,60%)
+}
+
+.stamine {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: right;
+    transform: translate(0,30%);
+}
+
+.gallery {
+    color: black;
+    font-size: 11px;
+    text-align: left;
+    transform: translate(0,60%);
+    margin-left: -70%;
+}
+
+.trainar {
+    color: black;
+    font-size: 11px;
+    text-align:center;
+    transform: translate(0,60%);
+}
+
+.trainer {
+    color: black;
+    font-size: 11px;
+    text-align: left;
+    transform: translate(0,60%);
+    margin-left: -130%;
+}
+
+.pricing {
+    color: black;
+    font-size: 11px;
+    text-align: left;
+    transform: translate(0,60%);
+    margin-left: -190%;
+}
+
+.blog {
+    color: black;
+    font-size: 11px;
+    text-align: left;
+    transform: translate(0,60%);
+    margin-left: -250%;
+}
+
+.contact {
+    color: black;
+    font-size: 11px;
+    text-align: left;
+    transform: translate(0,60%);
+    margin-left: -320%;
+}
+
+
+
+.dingBuBanner {
+    margin-top: 10px;
+}
+
+.baiKuangKuang {
+    margin-top: -15%;
+    text-align: center;
+}
